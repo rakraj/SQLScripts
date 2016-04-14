@@ -1,2 +1,6 @@
 third test 1
+<<<<<<< HEAD
 Third Test Client
+=======
+Third test web
+>>>>>>> origin/master
