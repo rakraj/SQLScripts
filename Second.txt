@@ -1,4 +1,8 @@
 second test 1
 second test 2
 cool
+<<<<<<< HEAD
 client
+=======
+web
+>>>>>>> origin/master
