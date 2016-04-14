@@ -1,7 +1,3 @@
 second test 1
 second test 2
-<<<<<<< HEAD
-second test Client
-=======
-second test web
->>>>>>> origin/master
+cool
